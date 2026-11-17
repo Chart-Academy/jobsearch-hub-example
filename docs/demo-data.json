@@ -1,0 +1,504 @@
+{
+ "profile": {
+  "summary": "Jordan Sample is an education leader with 12 years of experience, from teaching to leading district professional learning. Jordan wants a director-level instruction role near Example City.",
+  "target_roles": [
+   "Director of teaching and learning",
+   "Director of professional learning",
+   "Assistant superintendent for instruction"
+  ],
+  "location": "Example City or nearby towns reachable by bus or train, up to about 45 minutes; open to remote or hybrid.",
+  "skills": [
+   {
+    "skill": "Professional learning design",
+    "proof": "Résumé: Director of Professional Learning, Riverbend City Schools"
+   },
+   {
+    "skill": "Instructional coaching",
+    "proof": "Résumé: Instructional Coach, Riverbend City Schools"
+   },
+   {
+    "skill": "Budget management",
+    "proof": "Résumé: manages a $2 million budget"
+   }
+  ],
+  "hidden_skills": [
+   {
+    "skill": "Using survey data to improve programs",
+    "proof": "Résumé: raised teacher survey ratings from 62% to 81%"
+   }
+  ],
+  "certifications": [
+   "Teaching license (sample)",
+   "Administrator license (sample)"
+  ],
+  "must_haves": [
+   "At least $110,000 a year.",
+   "Reachable by public transportation, or remote.",
+   "Weekends off."
+  ],
+  "nice_to_haves": [
+   "Room to grow into a district leadership role.",
+   "A retirement plan."
+  ],
+  "start_date": "In about a month.",
+  "search_terms": [
+   "Director of Teaching and Learning",
+   "Director of Professional Learning",
+   "Assistant Superintendent Instruction"
+  ],
+  "notes_still_sample": true,
+  "updated": "2026-11-17"
+ },
+ "top10": [
+  1,
+  2,
+  3
+ ],
+ "jobs": [
+  {
+   "id": 1,
+   "title": "Director of Teaching and Learning",
+   "employer": "Example City Public Schools (fictional)",
+   "location": "Example City, ST (on the bus line)",
+   "pay": "$118,000 - $135,000 a year",
+   "schedule": "Full-time, Monday–Friday",
+   "link": "https://www.example.com/jobs/director-teaching-learning",
+   "posted": "2 weeks ago",
+   "source": "web search",
+   "about": "Leads curriculum, instruction, and teacher development for 20 schools. Works with principals to raise student achievement.",
+   "requirements": [
+    "Master's degree",
+    "Administrator license",
+    "5+ years of school leadership"
+   ],
+   "fast_hire_signs": [],
+   "warning_signs": [],
+   "must_haves": [
+    {
+     "must_have": "At least $110,000 a year.",
+     "status": "met",
+     "reason": "Pay is $118,000 to $135,000."
+    },
+    {
+     "must_have": "Reachable by public transportation, or remote.",
+     "status": "met",
+     "reason": "On the bus line."
+    },
+    {
+     "must_have": "Weekends off.",
+     "status": "met",
+     "reason": "Monday to Friday."
+    }
+   ],
+   "label": "good fit",
+   "quick_hire": false,
+   "fit_score": 9,
+   "chance": "strong",
+   "why": "Jordan's coaching and professional learning work matches this job closely, and it meets every must-have.",
+   "matching_skills": [
+    "Professional learning design",
+    "Instructional coaching"
+   ],
+   "gaps": [
+    "The posting asks for 5+ years of school leadership; check how they count director years."
+   ],
+   "student_check": {
+    "checked": true,
+    "agree": true,
+    "note": "Sample note: I checked the posting and it matches."
+   }
+  },
+  {
+   "id": 2,
+   "title": "Director of Professional Learning",
+   "employer": "Brightpath Learning Network (fictional nonprofit)",
+   "location": "Remote, with monthly trips to Example City",
+   "pay": "$112,000 a year",
+   "schedule": "Full-time",
+   "link": "https://www.example.com/careers/professional-learning",
+   "posted": "5 days ago",
+   "source": "web search",
+   "about": "Designs and leads training for partner schools. Manages a team of coaches.",
+   "requirements": [
+    "Experience leading adult learning",
+    "Coaching experience"
+   ],
+   "fast_hire_signs": [
+    "Interviews this week"
+   ],
+   "warning_signs": [],
+   "must_haves": [
+    {
+     "must_have": "At least $110,000 a year.",
+     "status": "met",
+     "reason": "Pay is $112,000."
+    },
+    {
+     "must_have": "Reachable by public transportation, or remote.",
+     "status": "met",
+     "reason": "Remote, with monthly trips."
+    },
+    {
+     "must_have": "Weekends off.",
+     "status": "unknown",
+     "reason": "Schedule not listed."
+    }
+   ],
+   "label": "good fit",
+   "quick_hire": true,
+   "fit_score": 8,
+   "chance": "strong",
+   "why": "Jordan already leads adult learning and coaches, which is the core of this role.",
+   "matching_skills": [
+    "Professional learning design",
+    "Instructional coaching"
+   ],
+   "gaps": [
+    "Monthly travel isn't covered in the notes."
+   ],
+   "student_check": {
+    "checked": false,
+    "agree": true,
+    "note": ""
+   }
+  },
+  {
+   "id": 3,
+   "title": "Assistant Superintendent for Instruction",
+   "employer": "Hillside County Schools (fictional)",
+   "location": "Hillside, ST (about 1 hour 20 minutes by train)",
+   "pay": "$150,000 - $170,000 a year",
+   "schedule": "Full-time",
+   "link": "https://www.example.com/hillside/assistant-superintendent",
+   "posted": "1 month ago",
+   "source": "web search",
+   "about": "Oversees all instructional programs for a district of 40 schools.",
+   "requirements": [
+    "Doctorate preferred",
+    "Superintendent endorsement",
+    "10+ years in district leadership"
+   ],
+   "fast_hire_signs": [],
+   "warning_signs": [],
+   "must_haves": [
+    {
+     "must_have": "At least $110,000 a year.",
+     "status": "met",
+     "reason": "Pay is $150,000 to $170,000."
+    },
+    {
+     "must_have": "Reachable by public transportation, or remote.",
+     "status": "not met",
+     "reason": "About 1 hour 20 minutes by train, longer than 45 minutes."
+    },
+    {
+     "must_have": "Weekends off.",
+     "status": "unknown",
+     "reason": "Not listed."
+    }
+   ],
+   "label": "maybe",
+   "quick_hire": false,
+   "fit_score": 5,
+   "chance": "stretch",
+   "why": "It's a step up and the commute is long, but Jordan's district experience is a solid start.",
+   "matching_skills": [
+    "Budget management"
+   ],
+   "gaps": [
+    "Superintendent endorsement",
+    "10+ years in district leadership"
+   ],
+   "student_check": {
+    "checked": false,
+    "agree": true,
+    "note": ""
+   }
+  },
+  {
+   "id": 4,
+   "title": "Education Program Director: work from home, $9,000 a week",
+   "employer": "Unnamed company",
+   "location": "Remote",
+   "pay": "$9,000 a week",
+   "schedule": "Not listed",
+   "link": "https://www.example.com/too-good-to-be-true",
+   "posted": "Today",
+   "source": "you pasted",
+   "about": "Asks for a $99 training fee and your bank details before an interview.",
+   "requirements": [
+    "Pay a training fee"
+   ],
+   "fast_hire_signs": [
+    "Hired today"
+   ],
+   "warning_signs": [
+    "Asks for money up front",
+    "Asks for bank details before an interview",
+    "Employer not named"
+   ],
+   "must_haves": [
+    {
+     "must_have": "At least $110,000 a year.",
+     "status": "unknown",
+     "reason": "The pay is far above normal, a scam sign."
+    },
+    {
+     "must_have": "Reachable by public transportation, or remote.",
+     "status": "met",
+     "reason": "Remote."
+    },
+    {
+     "must_have": "Weekends off.",
+     "status": "unknown",
+     "reason": "Not listed."
+    }
+   ],
+   "label": "scam",
+   "quick_hire": false,
+   "fit_score": 1,
+   "chance": "stretch",
+   "why": "It asks for a fee and bank details before an interview, and the employer isn't named. Don't apply.",
+   "matching_skills": [],
+   "gaps": [],
+   "student_check": {
+    "checked": false,
+    "agree": true,
+    "note": ""
+   }
+  }
+ ],
+ "updated": "2026-11-17",
+ "tracker": [
+  {
+   "Company": "Example City Public Schools (fictional)",
+   "Role": "Director of Teaching and Learning",
+   "Link": "https://www.example.com/jobs/director-teaching-learning",
+   "QUICK HIRE": "",
+   "Date applied": "2026-11-10",
+   "Status": "Interview",
+   "Follow-up date": "",
+   "Interview date": "2026-11-24",
+   "Offer date": "",
+   "Notes": "Sample row"
+  },
+  {
+   "Company": "Brightpath Learning Network (fictional nonprofit)",
+   "Role": "Director of Professional Learning",
+   "Link": "https://www.example.com/careers/professional-learning",
+   "QUICK HIRE": "Yes",
+   "Date applied": "2026-11-14",
+   "Status": "Applied",
+   "Follow-up date": "2026-11-21",
+   "Interview date": "",
+   "Offer date": "",
+   "Notes": "Sample row"
+  },
+  {
+   "Company": "Hillside County Schools (fictional)",
+   "Role": "Assistant Superintendent for Instruction",
+   "Link": "https://www.example.com/hillside/assistant-superintendent",
+   "QUICK HIRE": "",
+   "Date applied": "",
+   "Status": "Interested",
+   "Follow-up date": "",
+   "Interview date": "",
+   "Offer date": "",
+   "Notes": "Sample row"
+  }
+ ],
+ "documents": [
+  {
+   "folder": "data",
+   "name": "resume.txt",
+   "title": "My résumé",
+   "kind": "text"
+  },
+  {
+   "folder": "cover_letters",
+   "name": "sample-cover-letter.md",
+   "title": "Cover letter: Director of Teaching and Learning at Example City Public Schools (sample)",
+   "kind": "text"
+  }
+ ],
+ "interviews": [
+  {
+   "date": "2026-11-17",
+   "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+   "answers": [
+    {
+     "question": "Tell me a little about yourself and what draws you to this role.",
+     "answer": "Sample answer (made up for this example).",
+     "feedback": {
+      "situation": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "task": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "action": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "result": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "score": 2,
+      "strength": "Clear opening.",
+      "improve": "Add the result.",
+      "stronger_version": "[Sample stronger version]",
+      "date": "2026-11-17"
+     }
+    },
+    {
+     "question": "Tell me about a time you helped a struggling teacher improve.",
+     "answer": "Sample answer (made up for this example).",
+     "feedback": {
+      "situation": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "task": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "action": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "result": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "score": 2,
+      "strength": "Good setup.",
+      "improve": "Say what you did, step by step.",
+      "stronger_version": "[Sample stronger version]",
+      "date": "2026-11-17"
+     }
+    },
+    {
+     "question": "How would you decide which professional learning to offer first?",
+     "answer": "Sample answer (made up for this example).",
+     "feedback": {
+      "situation": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "task": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "action": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "result": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "score": 3,
+      "strength": "Clear plan.",
+      "improve": "Give an example from your work.",
+      "stronger_version": "[Sample stronger version]",
+      "date": "2026-11-17"
+     }
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+   "answers": [
+    {
+     "question": "Tell me a little about yourself and what draws you to this role.",
+     "answer": "Sample answer (made up for this example).",
+     "feedback": {
+      "situation": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "task": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "action": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "result": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "score": 3,
+      "strength": "Stronger story.",
+      "improve": "Finish with the result.",
+      "stronger_version": "[Sample stronger version]",
+      "date": "2026-11-17"
+     }
+    },
+    {
+     "question": "Tell me about a time you helped a struggling teacher improve.",
+     "answer": "Sample answer (made up for this example).",
+     "feedback": {
+      "situation": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "task": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "action": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "result": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "score": 4,
+      "strength": "All four STAR parts.",
+      "improve": "Add a number.",
+      "stronger_version": "[Sample stronger version]",
+      "date": "2026-11-17"
+     }
+    },
+    {
+     "question": "How would you decide which professional learning to offer first?",
+     "answer": "Sample answer (made up for this example).",
+     "feedback": {
+      "situation": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "task": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "action": {
+       "present": true,
+       "comment": "Sample comment."
+      },
+      "result": {
+       "present": false,
+       "comment": "Sample comment."
+      },
+      "score": 3,
+      "strength": "Specific example.",
+      "improve": "Share the outcome.",
+      "stronger_version": "[Sample stronger version]",
+      "date": "2026-11-17"
+     }
+    }
+   ]
+  }
+ ],
+ "document_texts": {
+  "data/resume.txt": "SAMPLE RÉSUMÉ: made up for this example. Replace it with your own (leave out your SSN, birth date, and home address).\n\nJordan Sample, M.Ed.\nExample City, ST\n\nProfessional Summary\n- 12 years in public education, from classroom teacher to district program director.\n- Led a team of 8 instructional coaches serving 15 schools.\n- Designed a new-teacher mentoring program used in every middle school in the district.\n\nExperience\nDirector of Professional Learning | Riverbend City Schools (fictional) | 2020 – Present\n- Plans and leads training for 600 teachers each year.\n- Manages a $2 million professional learning budget.\n- Built a coaching cycle that raised teacher survey ratings from 62% to 81%.\n\nInstructional Coach | Riverbend City Schools (fictional) | 2016 – 2020\n- Coached 25 teachers a year in literacy and classroom management.\n\nTeacher, Grade 7 English | Lakeview Middle School (fictional) | 2013 – 2016\n- Chaired the school improvement team.\n\nEducation\nMaster of Education, Curriculum and Instruction | Example State University\nCertifications: Teaching license; Administrator license (both sample entries)\n",
+  "cover_letters/sample-cover-letter.md": "DRAFT: edit before you send.\n\n# Cover letter: Director of Teaching and Learning at Example City Public Schools (sample)\n\nDear [Hiring Manager's Name],\n\nI am applying for the Director of Teaching and Learning role at Example City Public Schools. For the past six years I have led professional learning for 600 teachers at Riverbend City Schools, and I would welcome the chance to bring that work to Example City.\n\nAs Director of Professional Learning, I built a coaching cycle that raised teacher survey ratings from 62% to 81%, and I manage a $2 million professional learning budget.\n\n[Why Example City Public Schools matters to you]\n\nThank you for your consideration.\n\nSincerely,\nJordan Sample\n"
+ }
+}

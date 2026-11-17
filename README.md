@@ -2,6 +2,8 @@
 
 An example of the Job Search Hub from Chart Academy's Agent Labs (WO-04 and WO-05), shared so classmates can see one finished version.
 
+**See it in your browser:** https://cedricthompson.github.io/jobsearch-hub-example/ (a demo of the front end; saving and the AI coach are simulated).
+
 **All the data in `data/` is made up.** "Jordan Sample" and every employer, job, and interview answer are fictional, and every link goes to example.com. No real person's information is in this repo.
 
 ## What's in it
@@ -30,3 +32,6 @@ The sample data shows up right away. The agents and the interview coach use your
 
 ## Make it yours
 Replace the files in `data/` with your own résumé and notes. If your repo is public, leave your personal files out, and never include a Social Security number, birth date, home address, or bank details. The class prompts are in `prompts/`.
+
+## About the online demo
+The `docs/` folder is a copy of `site/` for GitHub Pages. GitHub Pages can't run `hub.py`, so `docs/demo.js` stands in for it: it loads the sample data from `docs/demo-data.json`, keeps changes in memory only, and uses canned interview questions and simple demo feedback instead of Claude. To use the real thing, run the hub on your own computer.
