@@ -1,50 +1,54 @@
 {
  "profile": {
-  "summary": "Jordan Sample is an education leader with 12 years of experience, from teaching to leading district professional learning. Jordan wants a director-level instruction role near Example City.",
+  "summary": "Jordan Sample has 4 years of retail customer service, including shift lead work, training new hires, and fixing scanner and printer problems. Jordan has a high school diploma and wants a first, entry-level IT help desk job near Example City.",
   "target_roles": [
-   "Director of teaching and learning",
-   "Director of professional learning",
-   "Assistant superintendent for instruction"
+   "Help desk technician",
+   "IT support technician",
+   "Service desk analyst (tier 1)",
+   "Desktop support technician"
   ],
-  "location": "Example City or nearby towns reachable by bus or train, up to about 45 minutes; open to remote or hybrid.",
+  "location": "Example City or nearby towns reachable by bus, up to about 45 minutes; remote is fine.",
   "skills": [
    {
-    "skill": "Professional learning design",
-    "proof": "Résumé: Director of Professional Learning, Riverbend City Schools"
+    "skill": "Customer service",
+    "proof": "Résumé: helps about 60 customers a shift; survey score 4.8 out of 5"
    },
    {
-    "skill": "Instructional coaching",
-    "proof": "Résumé: Instructional Coach, Riverbend City Schools"
+    "skill": "Training others",
+    "proof": "Résumé: trained 4 new hires on the POS system"
    },
    {
-    "skill": "Budget management",
-    "proof": "Résumé: manages a $2 million budget"
+    "skill": "Basic hardware troubleshooting",
+    "proof": "Résumé: restarts and reconnects scanners and receipt printers"
    }
   ],
   "hidden_skills": [
    {
-    "skill": "Using survey data to improve programs",
-    "proof": "Résumé: raised teacher survey ratings from 62% to 81%"
+    "skill": "Staying calm with upset people (de-escalation)",
+    "proof": "Résumé: handles returns and complaints; about me: stays calm with upset customers"
+   },
+   {
+    "skill": "Reliability and trust",
+    "proof": "Résumé: opens and closes the store as shift lead; balanced the cash drawer every shift"
    }
   ],
-  "certifications": [
-   "Teaching license (sample)",
-   "Administrator license (sample)"
-  ],
+  "certifications": [],
   "must_haves": [
-   "At least $110,000 a year.",
-   "Reachable by public transportation, or remote.",
-   "Weekends off."
+   "At least $20 an hour.",
+   "Reachable by bus, or remote.",
+   "Full-time."
   ],
   "nice_to_haves": [
-   "Room to grow into a district leadership role.",
-   "A retirement plan."
+   "They pay for training or certifications.",
+   "A path into cybersecurity later.",
+   "Health insurance."
   ],
-  "start_date": "In about a month.",
+  "start_date": "In two weeks.",
   "search_terms": [
-   "Director of Teaching and Learning",
-   "Director of Professional Learning",
-   "Assistant Superintendent Instruction"
+   "Help Desk Technician entry level",
+   "IT Support Technician",
+   "Service Desk Analyst Tier 1",
+   "Desktop Support Technician entry level"
   ],
   "notes_still_sample": true,
   "updated": "2026-11-17"
@@ -57,104 +61,106 @@
  "jobs": [
   {
    "id": 1,
-   "title": "Director of Teaching and Learning",
-   "employer": "Example City Public Schools (fictional)",
+   "title": "Help Desk Technician I",
+   "employer": "Example City Medical Center (fictional)",
    "location": "Example City, ST (on the bus line)",
-   "pay": "$118,000 - $135,000 a year",
-   "schedule": "Full-time, Monday–Friday",
-   "link": "https://www.example.com/jobs/director-teaching-learning",
-   "posted": "2 weeks ago",
+   "pay": "$21 – $24 an hour",
+   "schedule": "Full-time, Monday–Friday, day shift",
+   "link": "https://www.example.com/jobs/help-desk-technician-1",
+   "posted": "1 week ago",
    "source": "web search",
-   "about": "Leads curriculum, instruction, and teacher development for 20 schools. Works with principals to raise student achievement.",
+   "about": "Answers phone and chat calls from hospital staff, resets passwords, sets up printers, and logs every ticket. Paid training for new hires.",
    "requirements": [
-    "Master's degree",
-    "Administrator license",
-    "5+ years of school leadership"
+    "High school diploma",
+    "Customer service experience",
+    "Basic Windows skills"
    ],
-   "fast_hire_signs": [],
+   "fast_hire_signs": [
+    "Paid training class starts every month"
+   ],
    "warning_signs": [],
    "must_haves": [
     {
-     "must_have": "At least $110,000 a year.",
+     "must_have": "At least $20 an hour.",
      "status": "met",
-     "reason": "Pay is $118,000 to $135,000."
+     "reason": "Pay is $21 to $24 an hour."
     },
     {
-     "must_have": "Reachable by public transportation, or remote.",
+     "must_have": "Reachable by bus, or remote.",
      "status": "met",
      "reason": "On the bus line."
     },
     {
-     "must_have": "Weekends off.",
+     "must_have": "Full-time.",
      "status": "met",
-     "reason": "Monday to Friday."
+     "reason": "Full-time."
     }
    ],
    "label": "good fit",
-   "quick_hire": false,
+   "quick_hire": true,
    "fit_score": 9,
    "chance": "strong",
-   "why": "Jordan's coaching and professional learning work matches this job closely, and it meets every must-have.",
+   "why": "An entry-level help desk job that asks for customer service experience, which Jordan has plenty of, and it trains new hires.",
    "matching_skills": [
-    "Professional learning design",
-    "Instructional coaching"
+    "Customer service",
+    "Basic hardware troubleshooting"
    ],
    "gaps": [
-    "The posting asks for 5+ years of school leadership; check how they count director years."
+    "No help desk ticket system experience yet; mention fixing scanners and printers at the store."
    ],
    "student_check": {
     "checked": true,
     "agree": true,
-    "note": "Sample note: I checked the posting and it matches."
+    "note": "Sample note: I read the posting. They train new hires, so I'm applying this week."
    }
   },
   {
    "id": 2,
-   "title": "Director of Professional Learning",
-   "employer": "Brightpath Learning Network (fictional nonprofit)",
-   "location": "Remote, with monthly trips to Example City",
-   "pay": "$112,000 a year",
-   "schedule": "Full-time",
-   "link": "https://www.example.com/careers/professional-learning",
-   "posted": "5 days ago",
-   "source": "web search",
-   "about": "Designs and leads training for partner schools. Manages a team of coaches.",
+   "title": "IT Support Technician",
+   "employer": "Capitol Area Health Partners (fictional)",
+   "location": "Example City, ST (on-site)",
+   "pay": "$23 – $26 an hour",
+   "schedule": "Full-time, Monday–Friday, 8 am to 4:30 pm",
+   "link": "https://www.example.com/careers/it-support-technician",
+   "posted": "3 days ago",
+   "source": "you pasted",
+   "about": "Supports staff with Windows, Microsoft 365, and printers.",
    "requirements": [
-    "Experience leading adult learning",
-    "Coaching experience"
+    "1 year of help desk or customer service experience",
+    "A+ or Security+ preferred"
    ],
    "fast_hire_signs": [
-    "Interviews this week"
+    "Open interviews every Tuesday; offers made the same week"
    ],
    "warning_signs": [],
    "must_haves": [
     {
-     "must_have": "At least $110,000 a year.",
+     "must_have": "At least $20 an hour.",
      "status": "met",
-     "reason": "Pay is $112,000."
+     "reason": "Pay is $23 to $26 an hour."
     },
     {
-     "must_have": "Reachable by public transportation, or remote.",
-     "status": "met",
-     "reason": "Remote, with monthly trips."
-    },
-    {
-     "must_have": "Weekends off.",
+     "must_have": "Reachable by bus, or remote.",
      "status": "unknown",
-     "reason": "Schedule not listed."
+     "reason": "Location doesn't say if it's near a bus line."
+    },
+    {
+     "must_have": "Full-time.",
+     "status": "met",
+     "reason": "Full-time."
     }
    ],
    "label": "good fit",
    "quick_hire": true,
    "fit_score": 8,
-   "chance": "strong",
-   "why": "Jordan already leads adult learning and coaches, which is the core of this role.",
+   "chance": "fair",
+   "why": "Accepts customer service experience in place of help desk experience, and open interviews mean a fast answer.",
    "matching_skills": [
-    "Professional learning design",
-    "Instructional coaching"
+    "Customer service",
+    "Training others"
    ],
    "gaps": [
-    "Monthly travel isn't covered in the notes."
+    "A+ or Security+ preferred; say you're studying for Security+ if you are."
    ],
    "student_check": {
     "checked": false,
@@ -164,50 +170,49 @@
   },
   {
    "id": 3,
-   "title": "Assistant Superintendent for Instruction",
-   "employer": "Hillside County Schools (fictional)",
-   "location": "Hillside, ST (about 1 hour 20 minutes by train)",
-   "pay": "$150,000 - $170,000 a year",
-   "schedule": "Full-time",
-   "link": "https://www.example.com/hillside/assistant-superintendent",
-   "posted": "1 month ago",
+   "title": "Service Desk Analyst (Tier 1)",
+   "employer": "Riverbend County Government (fictional)",
+   "location": "Riverbend, ST (hybrid, 40 minutes by bus)",
+   "pay": "$22.50 an hour",
+   "schedule": "Full-time, Monday–Friday",
+   "link": "https://www.example.com/riverbend/service-desk-analyst",
+   "posted": "2 weeks ago",
    "source": "web search",
-   "about": "Oversees all instructional programs for a district of 40 schools.",
+   "about": "First point of contact for county employees with computer, phone, and account problems.",
    "requirements": [
-    "Doctorate preferred",
-    "Superintendent endorsement",
-    "10+ years in district leadership"
+    "1 year of help desk experience",
+    "CompTIA A+ within 6 months of hire"
    ],
    "fast_hire_signs": [],
    "warning_signs": [],
    "must_haves": [
     {
-     "must_have": "At least $110,000 a year.",
+     "must_have": "At least $20 an hour.",
      "status": "met",
-     "reason": "Pay is $150,000 to $170,000."
+     "reason": "Pay is $22.50 an hour."
     },
     {
-     "must_have": "Reachable by public transportation, or remote.",
-     "status": "not met",
-     "reason": "About 1 hour 20 minutes by train, longer than 45 minutes."
+     "must_have": "Reachable by bus, or remote.",
+     "status": "met",
+     "reason": "Hybrid, about 40 minutes by bus."
     },
     {
-     "must_have": "Weekends off.",
-     "status": "unknown",
-     "reason": "Not listed."
+     "must_have": "Full-time.",
+     "status": "met",
+     "reason": "Full-time."
     }
    ],
    "label": "maybe",
    "quick_hire": false,
-   "fit_score": 5,
+   "fit_score": 6,
    "chance": "stretch",
-   "why": "It's a step up and the commute is long, but Jordan's district experience is a solid start.",
+   "why": "A good job with a clear path, but it asks for a year of help desk experience and A+ within six months.",
    "matching_skills": [
-    "Budget management"
+    "Customer service"
    ],
    "gaps": [
-    "Superintendent endorsement",
-    "10+ years in district leadership"
+    "1 year of help desk experience",
+    "CompTIA A+ within 6 months"
    ],
    "student_check": {
     "checked": false,
@@ -217,48 +222,98 @@
   },
   {
    "id": 4,
-   "title": "Education Program Director: work from home, $9,000 a week",
-   "employer": "Unnamed company",
+   "title": "Remote Technical Support Representative",
+   "employer": "Brightline Internet (fictional)",
    "location": "Remote",
-   "pay": "$9,000 a week",
-   "schedule": "Not listed",
-   "link": "https://www.example.com/too-good-to-be-true",
-   "posted": "Today",
-   "source": "you pasted",
-   "about": "Asks for a $99 training fee and your bank details before an interview.",
+   "pay": "$18.50 an hour",
+   "schedule": "Full-time, rotating shifts including weekends",
+   "link": "https://www.example.com/brightline/remote-tech-support",
+   "posted": "5 days ago",
+   "source": "web search",
+   "about": "Helps home internet customers fix Wi-Fi and modem problems over the phone.",
    "requirements": [
-    "Pay a training fee"
+    "High school diploma",
+    "Customer service experience",
+    "Home internet with a wired connection"
    ],
    "fast_hire_signs": [
-    "Hired today"
+    "Hiring a new class every two weeks"
    ],
-   "warning_signs": [
-    "Asks for money up front",
-    "Asks for bank details before an interview",
-    "Employer not named"
-   ],
+   "warning_signs": [],
    "must_haves": [
     {
-     "must_have": "At least $110,000 a year.",
-     "status": "unknown",
-     "reason": "The pay is far above normal, a scam sign."
+     "must_have": "At least $20 an hour.",
+     "status": "not met",
+     "reason": "Pay is $18.50 an hour, under $20."
     },
     {
-     "must_have": "Reachable by public transportation, or remote.",
+     "must_have": "Reachable by bus, or remote.",
      "status": "met",
      "reason": "Remote."
     },
     {
-     "must_have": "Weekends off.",
+     "must_have": "Full-time.",
+     "status": "met",
+     "reason": "Full-time."
+    }
+   ],
+   "label": "not a fit",
+   "quick_hire": true,
+   "fit_score": 4,
+   "chance": "strong",
+   "why": "Easy to get, but the pay is below Jordan's $20 minimum and it includes weekend shifts.",
+   "matching_skills": [
+    "Customer service"
+   ],
+   "gaps": [],
+   "student_check": {
+    "checked": false,
+    "agree": true,
+    "note": ""
+   }
+  },
+  {
+   "id": 5,
+   "title": "Help Desk Assistant (Work From Home)",
+   "employer": "QuickTech Solutions (fictional)",
+   "location": "Remote",
+   "pay": "$45 an hour, no experience needed",
+   "schedule": "Part-time, set your own hours",
+   "link": "https://www.example.com/quicktech/help-desk-assistant",
+   "posted": "1 day ago",
+   "source": "you pasted",
+   "about": "Process payments for clients from your personal bank account. Training fee of $99 required before starting.",
+   "requirements": [
+    "Must provide bank account details to start"
+   ],
+   "fast_hire_signs": [],
+   "warning_signs": [
+    "Asks you to pay a training fee",
+    "Asks for your bank account details",
+    "Pay is far too high for no experience"
+   ],
+   "must_haves": [
+    {
+     "must_have": "At least $20 an hour.",
      "status": "unknown",
-     "reason": "Not listed."
+     "reason": "Pay claim isn't believable."
+    },
+    {
+     "must_have": "Reachable by bus, or remote.",
+     "status": "met",
+     "reason": "Remote."
+    },
+    {
+     "must_have": "Full-time.",
+     "status": "not met",
+     "reason": "Part-time."
     }
    ],
    "label": "scam",
    "quick_hire": false,
    "fit_score": 1,
    "chance": "stretch",
-   "why": "It asks for a fee and bank details before an interview, and the employer isn't named. Don't apply.",
+   "why": "Warning signs of a scam: it asks for a training fee and your bank account details. Don't apply or send any information.",
    "matching_skills": [],
    "gaps": [],
    "student_check": {
@@ -271,33 +326,33 @@
  "updated": "2026-11-17",
  "tracker": [
   {
-   "Company": "Example City Public Schools (fictional)",
-   "Role": "Director of Teaching and Learning",
-   "Link": "https://www.example.com/jobs/director-teaching-learning",
-   "QUICK HIRE": "",
-   "Date applied": "2026-11-10",
+   "Company": "Example City Medical Center (fictional)",
+   "Role": "Help Desk Technician I",
+   "Link": "https://www.example.com/jobs/help-desk-technician-1",
+   "QUICK HIRE": "Yes",
+   "Date applied": "2026-11-12",
    "Status": "Interview",
    "Follow-up date": "",
-   "Interview date": "2026-11-24",
+   "Interview date": "2026-11-20",
    "Offer date": "",
    "Notes": "Sample row"
   },
   {
-   "Company": "Brightpath Learning Network (fictional nonprofit)",
-   "Role": "Director of Professional Learning",
-   "Link": "https://www.example.com/careers/professional-learning",
+   "Company": "Capitol Area Health Partners (fictional)",
+   "Role": "IT Support Technician",
+   "Link": "https://www.example.com/careers/it-support-technician",
    "QUICK HIRE": "Yes",
    "Date applied": "2026-11-14",
    "Status": "Applied",
    "Follow-up date": "2026-11-21",
    "Interview date": "",
    "Offer date": "",
-   "Notes": "Sample row"
+   "Notes": "Sample row: open interviews Tuesday"
   },
   {
-   "Company": "Hillside County Schools (fictional)",
-   "Role": "Assistant Superintendent for Instruction",
-   "Link": "https://www.example.com/hillside/assistant-superintendent",
+   "Company": "Riverbend County Government (fictional)",
+   "Role": "Service Desk Analyst (Tier 1)",
+   "Link": "https://www.example.com/riverbend/service-desk-analyst",
    "QUICK HIRE": "",
    "Date applied": "",
    "Status": "Interested",
@@ -317,17 +372,17 @@
   {
    "folder": "cover_letters",
    "name": "sample-cover-letter.md",
-   "title": "Cover letter: Director of Teaching and Learning at Example City Public Schools (sample)",
+   "title": "Cover letter: Help Desk Technician I at Example City Medical Center (sample)",
    "kind": "text"
   }
  ],
  "interviews": [
   {
    "date": "2026-11-17",
-   "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+   "job": "Help Desk Technician I · Example City Medical Center (fictional)",
    "answers": [
     {
-     "question": "Tell me a little about yourself and what draws you to this role.",
+     "question": "Tell me a little about yourself and why you want to work in IT support.",
      "answer": "Sample answer (made up for this example).",
      "feedback": {
       "situation": {
@@ -347,14 +402,14 @@
        "comment": "Sample comment."
       },
       "score": 2,
-      "strength": "Clear opening.",
-      "improve": "Add the result.",
+      "strength": "Friendly opening.",
+      "improve": "Say why IT support, not just that you like computers.",
       "stronger_version": "[Sample stronger version]",
       "date": "2026-11-17"
      }
     },
     {
-     "question": "Tell me about a time you helped a struggling teacher improve.",
+     "question": "Tell me about a time you helped a frustrated customer. What did you do, and how did it turn out?",
      "answer": "Sample answer (made up for this example).",
      "feedback": {
       "situation": {
@@ -362,11 +417,11 @@
        "comment": "Sample comment."
       },
       "task": {
-       "present": true,
+       "present": false,
        "comment": "Sample comment."
       },
       "action": {
-       "present": false,
+       "present": true,
        "comment": "Sample comment."
       },
       "result": {
@@ -374,14 +429,14 @@
        "comment": "Sample comment."
       },
       "score": 2,
-      "strength": "Good setup.",
-      "improve": "Say what you did, step by step.",
+      "strength": "Good real story from the store.",
+      "improve": "End with how it turned out.",
       "stronger_version": "[Sample stronger version]",
       "date": "2026-11-17"
      }
     },
     {
-     "question": "How would you decide which professional learning to offer first?",
+     "question": "A staff member calls and says their printer won't print. Walk me through what you would do.",
      "answer": "Sample answer (made up for this example).",
      "feedback": {
       "situation": {
@@ -401,8 +456,8 @@
        "comment": "Sample comment."
       },
       "score": 3,
-      "strength": "Clear plan.",
-      "improve": "Give an example from your work.",
+      "strength": "Clear first steps.",
+      "improve": "Say how you'd confirm it's fixed and log the ticket.",
       "stronger_version": "[Sample stronger version]",
       "date": "2026-11-17"
      }
@@ -411,10 +466,10 @@
   },
   {
    "date": "2026-11-17",
-   "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+   "job": "Help Desk Technician I · Example City Medical Center (fictional)",
    "answers": [
     {
-     "question": "Tell me a little about yourself and what draws you to this role.",
+     "question": "Tell me a little about yourself and why you want to work in IT support.",
      "answer": "Sample answer (made up for this example).",
      "feedback": {
       "situation": {
@@ -434,14 +489,14 @@
        "comment": "Sample comment."
       },
       "score": 3,
-      "strength": "Stronger story.",
-      "improve": "Finish with the result.",
+      "strength": "Linked retail work to IT support.",
+      "improve": "Add one number, like 60 customers a shift.",
       "stronger_version": "[Sample stronger version]",
       "date": "2026-11-17"
      }
     },
     {
-     "question": "Tell me about a time you helped a struggling teacher improve.",
+     "question": "Tell me about a time you helped a frustrated customer. What did you do, and how did it turn out?",
      "answer": "Sample answer (made up for this example).",
      "feedback": {
       "situation": {
@@ -461,14 +516,14 @@
        "comment": "Sample comment."
       },
       "score": 4,
-      "strength": "All four STAR parts.",
-      "improve": "Add a number.",
+      "strength": "Full STAR story with a result.",
+      "improve": "Keep it under two minutes.",
       "stronger_version": "[Sample stronger version]",
       "date": "2026-11-17"
      }
     },
     {
-     "question": "How would you decide which professional learning to offer first?",
+     "question": "A staff member calls and says their printer won't print. Walk me through what you would do.",
      "answer": "Sample answer (made up for this example).",
      "feedback": {
       "situation": {
@@ -484,12 +539,12 @@
        "comment": "Sample comment."
       },
       "result": {
-       "present": false,
+       "present": true,
        "comment": "Sample comment."
       },
-      "score": 3,
-      "strength": "Specific example.",
-      "improve": "Share the outcome.",
+      "score": 4,
+      "strength": "Step-by-step and checks with the user.",
+      "improve": "Mention writing the ticket notes.",
       "stronger_version": "[Sample stronger version]",
       "date": "2026-11-17"
      }
@@ -498,7 +553,7 @@
   }
  ],
  "document_texts": {
-  "data/resume.txt": "SAMPLE RÉSUMÉ: made up for this example. Replace it with your own (leave out your SSN, birth date, and home address).\n\nJordan Sample, M.Ed.\nExample City, ST\n\nProfessional Summary\n- 12 years in public education, from classroom teacher to district program director.\n- Led a team of 8 instructional coaches serving 15 schools.\n- Designed a new-teacher mentoring program used in every middle school in the district.\n\nExperience\nDirector of Professional Learning | Riverbend City Schools (fictional) | 2020 – Present\n- Plans and leads training for 600 teachers each year.\n- Manages a $2 million professional learning budget.\n- Built a coaching cycle that raised teacher survey ratings from 62% to 81%.\n\nInstructional Coach | Riverbend City Schools (fictional) | 2016 – 2020\n- Coached 25 teachers a year in literacy and classroom management.\n\nTeacher, Grade 7 English | Lakeview Middle School (fictional) | 2013 – 2016\n- Chaired the school improvement team.\n\nEducation\nMaster of Education, Curriculum and Instruction | Example State University\nCertifications: Teaching license; Administrator license (both sample entries)\n",
-  "cover_letters/sample-cover-letter.md": "DRAFT: edit before you send.\n\n# Cover letter: Director of Teaching and Learning at Example City Public Schools (sample)\n\nDear [Hiring Manager's Name],\n\nI am applying for the Director of Teaching and Learning role at Example City Public Schools. For the past six years I have led professional learning for 600 teachers at Riverbend City Schools, and I would welcome the chance to bring that work to Example City.\n\nAs Director of Professional Learning, I built a coaching cycle that raised teacher survey ratings from 62% to 81%, and I manage a $2 million professional learning budget.\n\n[Why Example City Public Schools matters to you]\n\nThank you for your consideration.\n\nSincerely,\nJordan Sample\n"
+  "data/resume.txt": "SAMPLE RÉSUMÉ: made up for this example. Replace it with your own (leave out your SSN, birth date, and home address).\n\nJordan Sample\nExample City, ST\n\nSummary\n- Friendly, dependable retail worker with 4 years of customer service experience.\n- Shift lead who trains new hires and solves register and scanner problems on the spot.\n- Looking for a first job in IT help desk support.\n\nExperience\nSales Associate and Shift Lead | Bright Mart (fictional) | 2023 – Present\n- Helps about 60 customers a shift with questions, returns, and complaints.\n- Trained 4 new hires on the point-of-sale (POS) system.\n- Restarts and reconnects handheld scanners and receipt printers when they stop working, so the line keeps moving.\n- Opens and closes the store as shift lead two nights a week.\n- Store customer survey score of 4.8 out of 5 for my shifts.\n\nCashier | Corner Grocery (fictional) | 2021 – 2023\n- Handled cash and card payments and balanced the register drawer at the end of every shift.\n- Stocked shelves and helped customers find items.\n\nEducation\nHigh School Diploma | Example City High School (fictional) | 2021\n\nSkills\nCustomer service, point-of-sale systems, Windows and Microsoft Word/Excel basics, staying calm with upset customers\n",
+  "cover_letters/sample-cover-letter.md": "DRAFT: edit before you send.\n\n# Cover letter: Help Desk Technician I at Example City Medical Center (sample)\n\nDear [Hiring Manager's Name],\n\nI am applying for the Help Desk Technician I role at Example City Medical Center. For four years I have worked in retail customer service, most recently as a shift lead at Bright Mart, where I help about 60 customers a shift and keep calm when people are frustrated.\n\nI am also the person my store turns to when a handheld scanner or receipt printer stops working. I restart and reconnect the equipment so the line keeps moving, and I have trained four new hires on our point-of-sale system. My shifts earn a customer survey score of 4.8 out of 5.\n\n[Why Example City Medical Center matters to you]\n\nI would welcome the chance to bring that patience and problem-solving to your help desk. Thank you for your consideration.\n\nSincerely,\nJordan Sample\n"
  }
 }

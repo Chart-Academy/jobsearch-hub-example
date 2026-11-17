@@ -1,25 +1,27 @@
 SAMPLE RÉSUMÉ: made up for this example. Replace it with your own (leave out your SSN, birth date, and home address).
 
-Jordan Sample, M.Ed.
+Jordan Sample
 Example City, ST
 
-Professional Summary
-- 12 years in public education, from classroom teacher to district program director.
-- Led a team of 8 instructional coaches serving 15 schools.
-- Designed a new-teacher mentoring program used in every middle school in the district.
+Summary
+- Friendly, dependable retail worker with 4 years of customer service experience.
+- Shift lead who trains new hires and solves register and scanner problems on the spot.
+- Looking for a first job in IT help desk support.
 
 Experience
-Director of Professional Learning | Riverbend City Schools (fictional) | 2020 – Present
-- Plans and leads training for 600 teachers each year.
-- Manages a $2 million professional learning budget.
-- Built a coaching cycle that raised teacher survey ratings from 62% to 81%.
+Sales Associate and Shift Lead | Bright Mart (fictional) | 2023 – Present
+- Helps about 60 customers a shift with questions, returns, and complaints.
+- Trained 4 new hires on the point-of-sale (POS) system.
+- Restarts and reconnects handheld scanners and receipt printers when they stop working, so the line keeps moving.
+- Opens and closes the store as shift lead two nights a week.
+- Store customer survey score of 4.8 out of 5 for my shifts.
 
-Instructional Coach | Riverbend City Schools (fictional) | 2016 – 2020
-- Coached 25 teachers a year in literacy and classroom management.
-
-Teacher, Grade 7 English | Lakeview Middle School (fictional) | 2013 – 2016
-- Chaired the school improvement team.
+Cashier | Corner Grocery (fictional) | 2021 – 2023
+- Handled cash and card payments and balanced the register drawer at the end of every shift.
+- Stocked shelves and helped customers find items.
 
 Education
-Master of Education, Curriculum and Instruction | Example State University
-Certifications: Teaching license; Administrator license (both sample entries)
+High School Diploma | Example City High School (fictional) | 2021
+
+Skills
+Customer service, point-of-sale systems, Windows and Microsoft Word/Excel basics, staying calm with upset customers

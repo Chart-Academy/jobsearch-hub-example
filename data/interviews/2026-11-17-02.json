@@ -1,9 +1,9 @@
 {
   "date": "2026-11-17",
-  "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+  "job": "Help Desk Technician I · Example City Medical Center (fictional)",
   "answers": [
     {
-      "question": "Tell me a little about yourself and what draws you to this role.",
+      "question": "Tell me a little about yourself and why you want to work in IT support.",
       "answer": "Sample answer (made up for this example).",
       "feedback": {
         "situation": {
@@ -23,14 +23,14 @@
           "comment": "Sample comment."
         },
         "score": 3,
-        "strength": "Stronger story.",
-        "improve": "Finish with the result.",
+        "strength": "Linked retail work to IT support.",
+        "improve": "Add one number, like 60 customers a shift.",
         "stronger_version": "[Sample stronger version]",
         "date": "2026-11-17"
       }
     },
     {
-      "question": "Tell me about a time you helped a struggling teacher improve.",
+      "question": "Tell me about a time you helped a frustrated customer. What did you do, and how did it turn out?",
       "answer": "Sample answer (made up for this example).",
       "feedback": {
         "situation": {
@@ -50,14 +50,14 @@
           "comment": "Sample comment."
         },
         "score": 4,
-        "strength": "All four STAR parts.",
-        "improve": "Add a number.",
+        "strength": "Full STAR story with a result.",
+        "improve": "Keep it under two minutes.",
         "stronger_version": "[Sample stronger version]",
         "date": "2026-11-17"
       }
     },
     {
-      "question": "How would you decide which professional learning to offer first?",
+      "question": "A staff member calls and says their printer won't print. Walk me through what you would do.",
       "answer": "Sample answer (made up for this example).",
       "feedback": {
         "situation": {
@@ -73,12 +73,12 @@
           "comment": "Sample comment."
         },
         "result": {
-          "present": false,
+          "present": true,
           "comment": "Sample comment."
         },
-        "score": 3,
-        "strength": "Specific example.",
-        "improve": "Share the outcome.",
+        "score": 4,
+        "strength": "Step-by-step and checks with the user.",
+        "improve": "Mention writing the ticket notes.",
         "stronger_version": "[Sample stronger version]",
         "date": "2026-11-17"
       }

@@ -23,21 +23,21 @@
   }
 
   const DEMO_QUESTIONS = [
-    "Tell me a little about yourself and what draws you to this role.",
-    "Tell me about a time you helped a struggling teacher improve. What did you do, and how did it turn out?",
-    "How would you decide which professional learning to offer first?",
-    "Tell me about a time you had to manage a tight budget.",
-    "Describe a time you got buy-in from people who disagreed with you.",
-    "Why do you want to work here, and what would you do in your first 90 days?",
+    "Tell me a little about yourself and why you want to work in IT support.",
+    "Tell me about a time you helped a frustrated customer. What did you do, and how did it turn out?",
+    "A staff member calls and says their printer won't print. Walk me through what you would do.",
+    "Tell me about a time you learned something new quickly.",
+    "How would you explain a password reset to someone who isn't good with computers?",
+    "Why do you want to work here, and where do you see yourself in two years?",
   ];
 
   function demoFeedback(answer) {
     const words = answer.split(/\s+/).filter(Boolean).length;
     const has = (pattern) => pattern.test(answer);
     const parts = {
-      situation: has(/\b(when|at my|in my|school|district|team|once|last year)\b/i),
+      situation: has(/\b(when|at my|in my|store|shift|customer|work|team|once|last year)\b/i),
       task: has(/\b(needed|had to|goal|asked to|my job|responsible)\b/i),
-      action: has(/\b(I (led|built|met|created|started|planned|coached|asked|worked|made|set))\b/i),
+      action: has(/\b(I (led|built|met|created|started|planned|trained|asked|worked|made|set|fixed|restarted|checked|called|helped))\b/i),
       result: has(/\b(result|so that|improved|increased|raised|because of|outcome|percent|%)\b/i),
     };
     const score = Math.max(1, Math.min(5, Object.values(parts).filter(Boolean).length + (words > 80 ? 1 : 0)));

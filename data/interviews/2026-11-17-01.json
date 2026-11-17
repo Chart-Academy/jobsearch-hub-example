@@ -1,9 +1,9 @@
 {
   "date": "2026-11-17",
-  "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+  "job": "Help Desk Technician I · Example City Medical Center (fictional)",
   "answers": [
     {
-      "question": "Tell me a little about yourself and what draws you to this role.",
+      "question": "Tell me a little about yourself and why you want to work in IT support.",
       "answer": "Sample answer (made up for this example).",
       "feedback": {
         "situation": {
@@ -23,14 +23,14 @@
           "comment": "Sample comment."
         },
         "score": 2,
-        "strength": "Clear opening.",
-        "improve": "Add the result.",
+        "strength": "Friendly opening.",
+        "improve": "Say why IT support, not just that you like computers.",
         "stronger_version": "[Sample stronger version]",
         "date": "2026-11-17"
       }
     },
     {
-      "question": "Tell me about a time you helped a struggling teacher improve.",
+      "question": "Tell me about a time you helped a frustrated customer. What did you do, and how did it turn out?",
       "answer": "Sample answer (made up for this example).",
       "feedback": {
         "situation": {
@@ -38,11 +38,11 @@
           "comment": "Sample comment."
         },
         "task": {
-          "present": true,
+          "present": false,
           "comment": "Sample comment."
         },
         "action": {
-          "present": false,
+          "present": true,
           "comment": "Sample comment."
         },
         "result": {
@@ -50,14 +50,14 @@
           "comment": "Sample comment."
         },
         "score": 2,
-        "strength": "Good setup.",
-        "improve": "Say what you did, step by step.",
+        "strength": "Good real story from the store.",
+        "improve": "End with how it turned out.",
         "stronger_version": "[Sample stronger version]",
         "date": "2026-11-17"
       }
     },
     {
-      "question": "How would you decide which professional learning to offer first?",
+      "question": "A staff member calls and says their printer won't print. Walk me through what you would do.",
       "answer": "Sample answer (made up for this example).",
       "feedback": {
         "situation": {
@@ -77,8 +77,8 @@
           "comment": "Sample comment."
         },
         "score": 3,
-        "strength": "Clear plan.",
-        "improve": "Give an example from your work.",
+        "strength": "Clear first steps.",
+        "improve": "Say how you'd confirm it's fixed and log the ticket.",
         "stronger_version": "[Sample stronger version]",
         "date": "2026-11-17"
       }
