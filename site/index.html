@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Job Search Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="avatar" aria-hidden="true">🧭</div>
+      <div class="brand">
+        <h1>My Job Search Hub</h1>
+        <p id="searching-for">Loading your search…</p>
+      </div>
+      <nav>
+        <a href="index.html" aria-current="page">Jobs</a>
+        <a href="interview.html">Interview practice</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Top of the page: my tracker on the left, my progress on the right -->
+    <div class="top-row">
+      <!-- 6. Tracker: quick view with one thermometer for each stage -->
+      <section id="tracker-section">
+        <h2>My application tracker</h2>
+        <div class="meter-box">
+          <p class="meter-title" id="meter-title">Where my applications are</p>
+          <div class="meters" id="meters"></div>
+        </div>
+        <button type="button" class="secondary toggle-table" id="toggle-tracker"
+                aria-expanded="false" aria-controls="tracker-table">Show my tracker table</button>
+      </section>
+
+      <!-- 2. Progress -->
+      <section class="progress" id="progress" aria-label="My progress"></section>
+    </div>
+
+    <!-- The tracker table opens here, full width, when I click the button -->
+    <section id="tracker-table" hidden>
+      <h2>My tracker table</h2>
+      <div class="actions">
+        <button type="button" id="save-tracker">Save my tracker</button>
+        <button type="button" class="secondary" id="add-row">Add a job I found myself</button>
+        <button type="button" class="secondary" id="download-csv">Download for Google Sheets</button>
+        <button type="button" class="secondary" id="close-tracker">Close the table</button>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead id="tracker-head"></thead>
+          <tbody id="tracker-body"></tbody>
+        </table>
+      </div>
+      <p class="muted" id="tracker-empty"></p>
+    </section>
+
+    <!-- Jump to a job -->
+    <section id="jump">
+      <h2>All my openings</h2>
+      <p class="muted">Click a title to go straight to that job.</p>
+      <ol class="jump-list" id="jump-list"></ol>
+    </section>
+
+    <!-- 3. What I'm looking for -->
+    <section id="looking-for">
+      <h2>What I'm looking for</h2>
+      <div id="profile"><p class="muted">Loading…</p></div>
+    </section>
+
+    <!-- Motivation: a new quote every 5 minutes -->
+    <section class="quote-box" aria-label="A quote to keep me going">
+      <blockquote id="quote-text"></blockquote>
+      <p class="quote-who" id="quote-who"></p>
+    </section>
+
+    <!-- 4. Top 10 -->
+    <section id="top">
+      <h2>My top 10 openings</h2>
+      <p class="note-line">These scores are estimates, so open and check every job yourself. You know your search best.</p>
+      <div class="cards" id="cards"></div>
+    </section>
+
+    <!-- 5. Left out -->
+    <section id="others">
+      <details>
+        <summary id="left-out-summary">Openings that didn't make my top 10</summary>
+        <ul class="left-out" id="left-out"></ul>
+      </details>
+    </section>
+
+    <!-- 7. Documents -->
+    <section id="documents">
+      <h2>My documents</h2>
+      <form class="upload-box" id="upload-form">
+        <h3>Add a file</h3>
+        <p class="muted">PDF, Word (.docx), or text files, up to 10 MB. Your files stay on this computer and
+          in your private GitHub repo. Never add anything with your Social Security number, birth date,
+          home address, or bank details.</p>
+        <div class="upload-row">
+          <label>File <input type="file" id="upload-file" accept=".pdf,.docx,.txt,.md" required></label>
+          <label>Keep it in
+            <select id="upload-folder">
+              <option value="resumes">Résumés</option>
+              <option value="cover_letters">Cover letters</option>
+              <option value="other_files">Other files</option>
+            </select>
+          </label>
+          <button type="submit" id="upload-button">Add to my documents</button>
+        </div>
+      </form>
+      <div class="docs">
+        <ul class="doc-list" id="doc-list"></ul>
+        <div class="doc-view" id="doc-view">Choose a document to read it here.</div>
+      </div>
+    </section>
+  </main>
+
+  <div id="message" role="status" aria-live="polite"></div>
+  <script src="hub.js"></script>
+</body>
+</html>

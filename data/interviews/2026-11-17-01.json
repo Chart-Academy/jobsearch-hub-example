@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-17",
+  "job": "Director of Teaching and Learning · Example City Public Schools (fictional)",
+  "answers": [
+    {
+      "question": "Tell me a little about yourself and what draws you to this role.",
+      "answer": "Sample answer (made up for this example).",
+      "feedback": {
+        "situation": {
+          "present": true,
+          "comment": "Sample comment."
+        },
+        "task": {
+          "present": false,
+          "comment": "Sample comment."
+        },
+        "action": {
+          "present": true,
+          "comment": "Sample comment."
+        },
+        "result": {
+          "present": false,
+          "comment": "Sample comment."
+        },
+        "score": 2,
+        "strength": "Clear opening.",
+        "improve": "Add the result.",
+        "stronger_version": "[Sample stronger version]",
+        "date": "2026-11-17"
+      }
+    },
+    {
+      "question": "Tell me about a time you helped a struggling teacher improve.",
+      "answer": "Sample answer (made up for this example).",
+      "feedback": {
+        "situation": {
+          "present": true,
+          "comment": "Sample comment."
+        },
+        "task": {
+          "present": true,
+          "comment": "Sample comment."
+        },
+        "action": {
+          "present": false,
+          "comment": "Sample comment."
+        },
+        "result": {
+          "present": false,
+          "comment": "Sample comment."
+        },
+        "score": 2,
+        "strength": "Good setup.",
+        "improve": "Say what you did, step by step.",
+        "stronger_version": "[Sample stronger version]",
+        "date": "2026-11-17"
+      }
+    },
+    {
+      "question": "How would you decide which professional learning to offer first?",
+      "answer": "Sample answer (made up for this example).",
+      "feedback": {
+        "situation": {
+          "present": false,
+          "comment": "Sample comment."
+        },
+        "task": {
+          "present": true,
+          "comment": "Sample comment."
+        },
+        "action": {
+          "present": true,
+          "comment": "Sample comment."
+        },
+        "result": {
+          "present": false,
+          "comment": "Sample comment."
+        },
+        "score": 3,
+        "strength": "Clear plan.",
+        "improve": "Give an example from your work.",
+        "stronger_version": "[Sample stronger version]",
+        "date": "2026-11-17"
+      }
+    }
+  ]
+}

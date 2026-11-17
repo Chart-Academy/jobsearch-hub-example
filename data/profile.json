@@ -1,0 +1,50 @@
+{
+  "summary": "Jordan Sample is an education leader with 12 years of experience, from teaching to leading district professional learning. Jordan wants a director-level instruction role near Example City.",
+  "target_roles": [
+    "Director of teaching and learning",
+    "Director of professional learning",
+    "Assistant superintendent for instruction"
+  ],
+  "location": "Example City or nearby towns reachable by bus or train, up to about 45 minutes; open to remote or hybrid.",
+  "skills": [
+    {
+      "skill": "Professional learning design",
+      "proof": "Résumé: Director of Professional Learning, Riverbend City Schools"
+    },
+    {
+      "skill": "Instructional coaching",
+      "proof": "Résumé: Instructional Coach, Riverbend City Schools"
+    },
+    {
+      "skill": "Budget management",
+      "proof": "Résumé: manages a $2 million budget"
+    }
+  ],
+  "hidden_skills": [
+    {
+      "skill": "Using survey data to improve programs",
+      "proof": "Résumé: raised teacher survey ratings from 62% to 81%"
+    }
+  ],
+  "certifications": [
+    "Teaching license (sample)",
+    "Administrator license (sample)"
+  ],
+  "must_haves": [
+    "At least $110,000 a year.",
+    "Reachable by public transportation, or remote.",
+    "Weekends off."
+  ],
+  "nice_to_haves": [
+    "Room to grow into a district leadership role.",
+    "A retirement plan."
+  ],
+  "start_date": "In about a month.",
+  "search_terms": [
+    "Director of Teaching and Learning",
+    "Director of Professional Learning",
+    "Assistant Superintendent Instruction"
+  ],
+  "notes_still_sample": true,
+  "updated": "2026-11-17"
+}

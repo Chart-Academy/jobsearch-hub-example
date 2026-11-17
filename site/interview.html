@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Interview practice · My Job Search Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="avatar" aria-hidden="true">🧭</div>
+      <div class="brand">
+        <h1>My Job Search Hub</h1>
+        <p id="searching-for">Interview practice with Mr. Williams</p>
+      </div>
+      <nav>
+        <a href="index.html">Jobs</a>
+        <a href="interview.html" aria-current="page">Interview practice</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- 1. Setup -->
+    <section id="setup">
+      <h2>Practice an interview</h2>
+      <p>Mr. Williams will ask you questions one at a time. Answer out loud (or type), then your coach
+        gives you STAR feedback: <strong>S</strong>ituation, <strong>T</strong>ask, <strong>A</strong>ction,
+        and <strong>R</strong>esult.</p>
+      <form id="setup-form" class="setup-grid">
+        <label>Which job?
+          <select id="job-choice">
+            <option value="general">General practice</option>
+          </select>
+        </label>
+        <label>How many questions?
+          <select id="question-count">
+            <option value="3">3</option>
+            <option value="5" selected>5</option>
+            <option value="6">6</option>
+          </select>
+        </label>
+        <label class="check-line"><input type="checkbox" id="read-aloud" checked> Read questions out loud</label>
+        <label class="check-line repeat-line" id="repeat-line" hidden>
+          <input type="checkbox" id="repeat" checked>
+          <span id="repeat-text">Ask the same questions as my last practice for this job, so I can see if I improve</span>
+        </label>
+        <div><button type="submit" id="start-button">Start my interview</button></div>
+      </form>
+      <p class="note-line">To answer out loud, use Chrome or Edge and allow the microphone when it asks.
+        You can always type your answer instead.</p>
+    </section>
+
+    <!-- 2–5. The interview -->
+    <section id="interview" hidden>
+      <p class="muted" id="question-count-line">Question 1 of 5</p>
+      <div class="interviewer">
+        <div class="interviewer-avatar" aria-hidden="true">👨🏾‍💼</div>
+        <div>
+          <strong>Mr. Williams</strong>
+          <div class="muted" id="interviewer-employer">General practice</div>
+        </div>
+      </div>
+      <p class="question" id="question-text" aria-live="polite">Getting your first question…</p>
+      <div class="actions">
+        <button type="button" class="secondary" id="say-again">🔊 Say it again</button>
+      </div>
+
+      <h3>My answer</h3>
+      <div class="actions">
+        <button type="button" id="mic-button" class="mic">🎤 Answer out loud</button>
+        <span class="muted" id="mic-status" aria-live="polite"></span>
+      </div>
+      <textarea id="answer" class="answer-box" aria-label="My answer"
+        placeholder="Your answer appears here as you talk. You can also type, and fix any words before you get feedback."></textarea>
+      <div class="actions">
+        <button type="button" id="feedback-button">Get STAR feedback</button>
+      </div>
+
+      <div id="feedback" aria-live="polite"></div>
+
+      <div class="actions" id="next-actions" hidden>
+        <button type="button" id="next-button">Next question</button>
+        <button type="button" class="secondary" id="finish-button">Finish and save</button>
+      </div>
+    </section>
+
+    <!-- My progress: my scores on each question, every time I practice a job -->
+    <section id="progress-section">
+      <h2>My progress</h2>
+      <label class="progress-pick">Job
+        <select id="progress-job"></select>
+      </label>
+      <div id="progress-summary" class="note-line"></div>
+      <!-- One thermometer per practice: my average STAR score out of 5 -->
+      <div class="meter-box" id="progress-meter-box" hidden>
+        <p class="meter-title">My average STAR score, practice by practice</p>
+        <div class="meters star-meters" id="progress-meters"></div>
+        <p class="muted meter-key">Red: under 2.5 · Gold: 2.5 to 3.4 · Green: 3.5 or higher</p>
+      </div>
+      <div class="table-wrap history-wrap">
+        <table class="history progress-table">
+          <thead id="progress-head"></thead>
+          <tbody id="progress-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 6. History -->
+    <section id="history-section">
+      <h2>My practice history</h2>
+      <div class="table-wrap history-wrap">
+        <table class="history">
+          <thead><tr><th>Date</th><th>Job</th><th>Answers</th><th>Average STAR score</th></tr></thead>
+          <tbody id="history"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <div id="message" role="status" aria-live="polite"></div>
+  <script src="interview.js"></script>
+</body>
+</html>

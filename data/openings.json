@@ -1,0 +1,86 @@
+{
+  "updated": "2026-11-17",
+  "openings": [
+    {
+      "id": 1,
+      "title": "Director of Teaching and Learning",
+      "employer": "Example City Public Schools (fictional)",
+      "location": "Example City, ST (on the bus line)",
+      "pay": "$118,000 - $135,000 a year",
+      "schedule": "Full-time, Monday–Friday",
+      "link": "https://www.example.com/jobs/director-teaching-learning",
+      "posted": "2 weeks ago",
+      "source": "web search",
+      "about": "Leads curriculum, instruction, and teacher development for 20 schools. Works with principals to raise student achievement.",
+      "requirements": [
+        "Master's degree",
+        "Administrator license",
+        "5+ years of school leadership"
+      ],
+      "fast_hire_signs": [],
+      "warning_signs": []
+    },
+    {
+      "id": 2,
+      "title": "Director of Professional Learning",
+      "employer": "Brightpath Learning Network (fictional nonprofit)",
+      "location": "Remote, with monthly trips to Example City",
+      "pay": "$112,000 a year",
+      "schedule": "Full-time",
+      "link": "https://www.example.com/careers/professional-learning",
+      "posted": "5 days ago",
+      "source": "web search",
+      "about": "Designs and leads training for partner schools. Manages a team of coaches.",
+      "requirements": [
+        "Experience leading adult learning",
+        "Coaching experience"
+      ],
+      "fast_hire_signs": [
+        "Interviews this week"
+      ],
+      "warning_signs": []
+    },
+    {
+      "id": 3,
+      "title": "Assistant Superintendent for Instruction",
+      "employer": "Hillside County Schools (fictional)",
+      "location": "Hillside, ST (about 1 hour 20 minutes by train)",
+      "pay": "$150,000 - $170,000 a year",
+      "schedule": "Full-time",
+      "link": "https://www.example.com/hillside/assistant-superintendent",
+      "posted": "1 month ago",
+      "source": "web search",
+      "about": "Oversees all instructional programs for a district of 40 schools.",
+      "requirements": [
+        "Doctorate preferred",
+        "Superintendent endorsement",
+        "10+ years in district leadership"
+      ],
+      "fast_hire_signs": [],
+      "warning_signs": []
+    },
+    {
+      "id": 4,
+      "title": "Education Program Director: work from home, $9,000 a week",
+      "employer": "Unnamed company",
+      "location": "Remote",
+      "pay": "$9,000 a week",
+      "schedule": "Not listed",
+      "link": "https://www.example.com/too-good-to-be-true",
+      "posted": "Today",
+      "source": "you pasted",
+      "about": "Asks for a $99 training fee and your bank details before an interview.",
+      "requirements": [
+        "Pay a training fee"
+      ],
+      "fast_hire_signs": [
+        "Hired today"
+      ],
+      "warning_signs": [
+        "Asks for money up front",
+        "Asks for bank details before an interview",
+        "Employer not named"
+      ]
+    }
+  ]
+}
